@@ -1,1 +1,1 @@
-alert('you just got XSS'd!');
+alert("you just got XSS'd!");
